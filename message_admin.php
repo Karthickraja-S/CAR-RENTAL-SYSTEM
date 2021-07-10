@@ -118,12 +118,7 @@
 
 				<li class="about">
 					<p>SK team is an organized company that rents cars and other vehicles to clients at lower costs. We we are here to serve every Indian Citizen</p>
-					<ul>
-						<li><a href="http://facebook.com/sonko" class="facebook" target="_blank"></a></li>
-						<li><a href="http://twitter.com/sonko" class="twitter" target="_blank"></a></li>
-						<li><a href="http://plus.google.com/+sonko" class="google" target="_blank"></a></li>
-						<li><a href="#" class="skype"></a></li>
-					</ul>
+					
 				</li>
 			</ul>
 		</div>
